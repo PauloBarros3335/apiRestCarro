@@ -10,7 +10,7 @@ Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente es
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)    ](https://www.linkedin.com/in/paulo-barros-3bb732270/DF0174) 
 
 <a href="mailto:barrosp3335@gmail.com">
-<img src="https://selzy.com/br/blog/wp-content/uploads/2023/04/dicas-gif-email-1200.gif" width="40px" />
+<img src="https://i.gifer.com/Anm7.gif" />
 </a>
 
 ## Hard Skills:     🌐:
