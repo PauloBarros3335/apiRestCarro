@@ -6,7 +6,7 @@ Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente es
 
 ## Para me encontrar: 🚨:
 
-![youtub](https://img.shields.io/youtube-ff0000?style=for-the-badge&logo=youtub&logColor=white)
+![youtube](https://img.shields.io/youtube-ff0000?style=for-the-badge&logo=youtube&logColor=white)
 
 [LinkedIn](https://www.linkedin.com/in/paulo-barros-3bb732270/DF0174) 
 
