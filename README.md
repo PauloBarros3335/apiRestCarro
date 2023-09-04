@@ -22,4 +22,4 @@ Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente es
 
 
 
-![Principais Linguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335&theme=tokyonight)
+![Principais Linguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335&theme=tokyonight&custom_title=Pricipais%20%Linguagues)
