@@ -34,3 +34,5 @@ Desenvolvedor de Software BackEnd | Node.js | JavaScript | PostgreSQL  | Git
 > É mais fácil pedir perdão do que permissão.
 
 Gráfico 
+
+![Principais Linguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335)
