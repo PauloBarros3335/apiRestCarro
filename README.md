@@ -15,7 +15,7 @@ Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente es
 
 
 <a href="mailto:barrosp3335@gmail.com">
-<img src="https://blog.topol.io/wp-content/uploads/2022/07/GIFs-in-email.gif" width="60px" />
+<!-- <img src="https://blog.topol.io/wp-content/uploads/2022/07/GIFs-in-email.gif" width="60px" /> -->
 </a>
 
 
