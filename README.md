@@ -1,25 +1,59 @@
- # apiRestCarro
+README - API de Carros com Node e Express
+Este é um guia passo a passo para criar uma API simples de carros do zero usando Node.js e
+o framework Express. A API terá três endpoints:
 
-# 🚀: Olá Pessoal!
+Listagem de Carros: GET /carros
+Obter um Carro pelo ID: GET /carros/:id
+Excluir um Carro pelo ID: DELETE /carros/:id
 
-Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente estudando na instituição [@cubosacademy](http://cubos.academy/)
+Passo 1: Iniciando o Projeto
+Crie um novo diretório para o projeto e navegue até ele usando o terminal:
 
-🌐: ## Para me encontrar: 
+mkdir api-carros
+cd api-carros
+Inicialize um novo projeto Node.js usando o comando:
 
-[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logColor=white)](https://www.youtube.com/watch?v=hIvLWMhdWdY&list=PL0m_zkvImj28D7RP8Tb-xqYMDqorIczkx&index=14)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)    ](https://www.linkedin.com/in/paulo-barros-3bb732270/DF0174) 
+npm init -y
+Isso criará um arquivo package.json com as configurações padrão.
 
-<a href="mailto:barrosp3335@gmail.com">Me envie um email </a>
+Passo 2: Instalando as Dependências
+Agora, vamos instalar as dependências necessárias para criar a API:
 
-🚨: ## Hard Skills:     
+npm install express, nodemon
+Express: Um framework Node.js para construir aplicativos da web.
+Nodemon: Uma ferramenta que reinicia automaticamente o servidor sempre que você faz alterações no código.
 
-![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=f7df1e)
+Passo 3: Criando a Estrutura do Projeto
+Crie um arquivo app.js na raiz do projeto. Este será o arquivo principal da nossa aplicação.
 
-| PostgreSQL  | Git
+const app.js app.js
 
-> É mais fácil pedir perdão do que permissão.
+Passo 4: Configurando o Express
+No arquivo app.js, configure o Express e crie os três endpoints solicitados:
 
+Listagem de Carros: GET /carros
+Obter um Carro pelo ID: GET /carros/:id
+Excluir um Carro pelo ID: DELETE /carros/:id
 
+Passo 5: Iniciando o Servidor com Nodemon
+Para iniciar o servidor e usar o Nodemon para reiniciá-lo automaticamente quando houver alterações no código,
+adicione o seguinte script ao seu package.json:
 
-![Principais Linguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335&theme=tokyonight&custom_title=Pricipais%20%Linguagues)
+"scripts": {
+"dev ": "nodemon index.js"
+}
+
+Passo 6: Iniciando a API
+Agora, você pode iniciar sua API de carros com o seguinte comando:
+
+npm run dev
+Sua API estará disponível em http://localhost:3000.
+
+Uso da API
+Para listar todos os carros, faça uma solicitação GET para http://localhost:3000/carros.
+
+Para obter um carro pelo ID, faça uma solicitação GET para http://localhost:3000/carros/:id,
+substituindo :id pelo ID do carro desejado.
+
+Para excluir um carro pelo ID, faça uma solicitação DELETE para http://localhost:3000/carros/:id,
+substituindo :id pelo ID do carro a ser excluído.
